@@ -1,3 +1,8 @@
+aiohttp @ file:///C:/ci/aiohttp_1646806572557/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
+anaconda-client @ file:///C:/ci/anaconda-client_1635342725944/work
+anaconda-navigator==2.1.4
 anaconda-project @ file:///tmp/build/80754af9/anaconda-project_1637161053845/work
 anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
@@ -28,9 +33,7 @@ bokeh @ file:///C:/ci/bokeh_1638362966927/work
 boto3 @ file:///opt/conda/conda-bld/boto3_1649078879353/work
 botocore @ file:///opt/conda/conda-bld/botocore_1649076662316/work
 Bottleneck @ file:///C:/ci/bottleneck_1648010904582/work
-branca==0.5.0
 brotlipy==0.7.0
-bs4==0.0.1
 cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
 certifi==2021.10.8
 cffi @ file:///C:/ci_310/cffi_1642682485096/work
@@ -41,10 +44,9 @@ cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1632508026186/work
 clyent==1.2.2
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 colorcet @ file:///tmp/build/80754af9/colorcet_1611168489822/work
-colorlover==0.3.0
 comtypes==1.1.10
-conda==4.13.0
-conda-build==3.21.9
+conda==4.12.0
+conda-build==3.21.8
 conda-content-trust @ file:///tmp/build/80754af9/conda-content-trust_1617045594566/work
 conda-pack @ file:///tmp/build/80754af9/conda-pack_1611163042455/work
 conda-package-handling @ file:///C:/ci/conda-package-handling_1649106011304/work
@@ -55,7 +57,6 @@ constantly==15.1.0
 cookiecutter @ file:///opt/conda/conda-bld/cookiecutter_1649151442564/work
 cryptography @ file:///C:/ci/cryptography_1633520531101/work
 cssselect==1.1.0
-cufflinks==0.17.3
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 Cython @ file:///C:/ci/cython_1647850559892/work
 cytoolz==0.11.0
@@ -76,8 +77,6 @@ fastjsonschema @ file:///tmp/build/80754af9/python-fastjsonschema_1620414857593/
 filelock @ file:///opt/conda/conda-bld/filelock_1647002191454/work
 flake8 @ file:///tmp/build/80754af9/flake8_1620776156532/work
 Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
-Flask-Cors==3.0.10
-folium==0.12.1.post1
 fonttools==4.25.0
 frozenlist @ file:///C:/ci/frozenlist_1637767271796/work
 fsspec @ file:///opt/conda/conda-bld/fsspec_1647268051896/work
@@ -157,9 +156,6 @@ multidict @ file:///C:/ci/multidict_1607349747897/work
 multipledispatch @ file:///C:/ci/multipledispatch_1607574329826/work
 munkres==1.1.4
 mypy-extensions==0.4.3
-mysql==0.0.3
-mysql-connector-python==8.0.29
-mysqlclient==2.1.0
 navigator-updater==0.2.1
 nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
 nbclient @ file:///C:/ci/nbclient_1650290387259/work
@@ -219,7 +215,6 @@ PyHamcrest @ file:///tmp/build/80754af9/pyhamcrest_1615748656804/work
 PyJWT @ file:///C:/ci/pyjwt_1619682721924/work
 pylint @ file:///C:/ci/pylint_1627536884966/work
 pyls-spyder==0.4.0
-pymongo==4.1.1
 PyNaCl @ file:///C:/ci/pynacl_1607612759007/work
 pyodbc @ file:///C:/ci/pyodbc_1647426110990/work
 pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
@@ -322,7 +317,6 @@ widgetsnbextension @ file:///C:/ci/widgetsnbextension_1644991377168/work
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 win-unicode-console==0.5
 wincertstore==0.2
-word2number==1.1
 wrapt @ file:///C:/ci/wrapt_1607574570428/work
 xarray @ file:///opt/conda/conda-bld/xarray_1639166117697/work
 xlrd @ file:///tmp/build/80754af9/xlrd_1608072521494/work
